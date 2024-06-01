@@ -1,242 +1,244 @@
-[
-  {
-    "id": 1,
-    "country": "Portugal",
-    "foodName": "Açorda",
-    "description": "",
-    "region": "Alentejo",
-    "meal": "Lunch/Dinner",
-    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/03/acorda-alentejana.jpg",
-    "national": false
-  },
-  {
-    "id": 2,
-    "country": "Portugal",
-    "foodName": "Alheira",
-    "description": "",
-    "region": "Mirandela",
-    "meal": "Lunch/Dinner",
-    "image": "https://asset.skoiy.com/gta2554ejcwslaya/0nxpieghi7bu.jpg?w=1852&q=80",
-    "national": false
-  },
-  {
-    "id": 3,
-    "country": "Portugal",
-    "foodName": "Arroz de Cabidela",
-    "description": "",
-    "region": "Minho",
-    "meal": "Lunch/Dinner",
-    "image": "https://images.trustinnews.pt/uploads/sites/5/2023/03/230302_JCC-Arroz-de-Cabidela-Tia-Matilde-04-1.jpg",
-    "national": false
-  },
-  {
-    "id": 4,
-    "country": "Portugal",
-    "foodName": "Caldo Verde",
-    "description": "",
-    "region": "North",
-    "meal": "Lunch/Dinner",
-    "image": "https://www.receitaslidl.pt/var/site/storage/images/_aliases/960x540/4/3/4/2/602434-1-por-PT/Caldo-verde.jpg",
-    "national": false
-  },
-  {
-    "id": 5,
-    "country": "Portugal",
-    "foodName": "Cozido à Portuguesa",
-    "description": "",
-    "region": "National",
-    "meal": "Lunch/Dinner",
-    "image": "https://pt.rc-cdn.community.thermomix.com/sites/3/2/32e8628d0ddea02b0574302fdccb3bbd.jpg",
-    "national": true
-  },
-  {
-    "id": 6,
-    "country": "Portugal",
-    "foodName": "Francesinha",
-    "description": "",
-    "region": "Porto",
-    "meal": "Lunch/Dinner",
-    "image": "https://www.unileverfoodsolutions.pt/dam/global-ufs/mcos/portugal/calcmenu/recipes/PT-recipes/In-Development/francesinha/main-header.jpg",
-    "national": false
-  },
-  {
-    "id": 7,
-    "country": "Portugal",
-    "foodName": "Leitão",
-    "description": "",
-    "region": "Bairrada",
-    "meal": "Lunch/Dinner",
-    "image": "https://i0.wp.com/reserva85.com.br/wp-content/uploads/2024/01/Onde-comer-leitao-da-Bairrada-em-Portugal.webp?fit=1200%2C675&ssl=1",
-    "national": false
-  },
-  {
-    "id": 8,
-    "country": "Portugal",
-    "foodName": "Pastel de Bélem",
-    "description": "",
-    "region": "Bélem",
-    "meal": "Dessert",
-    "image": "https://media-cdn.tripadvisor.com/media/photo-s/22/84/c7/94/pastel-de-belem.jpg",
-    "national": false
-  },
-  {
-    "id": 9,
-    "country": "Portugal",
-    "foodName": "Pastel de Bacalhau",
-    "description": "",
-    "region": "National",
-    "meal": "Snack",
-    "image": "https://www.cityguidelisbon.com/wp-content/uploads/2015/10/bb2-768x514.jpg",
-    "national": true
-  },
-  {
-    "id": 10,
-    "country": "Portugal",
-    "foodName": "Queijo da Serra",
-    "description": "",
-    "region": "Serra da Estrela",
-    "meal": "Snack",
-    "image": "https://divinoguia.com.br/wp-content/uploads/2019/12/Queijo-Serra-da-Estrela-divulga%C3%A7%C3%A3o-NCultura.PT_.jpg",
-    "national": false
-  },
-  {
-    "id": 11,
-    "country": "Portugal",
-    "foodName": "Sardinhas Assadas",
-    "description": "",
-    "region": "National",
-    "meal": "Lunch/Dinner",
-    "image": "https://e-leclerc.pt/wp-content/uploads/2023/06/Salada-de-Pimentos-com-Sardinhas-Assadas.png",
-    "national": true
-  },
-  {
-    "id": 12,
-    "country": "Portugal",
-    "foodName": "Tripas",
-    "description": "",
-    "region": "Porto",
-    "meal": "Lunch/Dinner",
-    "image": "https://surfivorcamp.com/wp-content/uploads/2018/12/tripas-a-moda-do-porto.jpg",
-    "national": false
-  },
-  {
-    "id": 13,
-    "country": "Spain",
-    "foodName": "Croquetas",
-    "description": "",
-    "region": "National",
-    "meal": "Starter",
-    "image": "https://img.saboresdehoy.com/receta/164/croquetas-de-jamon.jpg",
-    "national": true
-  },
-  {
-    "id": 14,
-    "country": "Spain",
-    "foodName": "Espeto de Sardinas",
-    "description": "",
-    "region": "Málaga",
-    "meal": "Lunch/Dinner",
-    "image": "https://imag.bonviveur.com/espeto-de-sardinas.jpg",
-    "national": false
-  },
-  {
-    "id": 15,
-    "country": "Spain",
-    "foodName": "Fabada Asturiana",
-    "description": "",
-    "region": "Asturias",
-    "meal": "Lunch",
-    "image": "https://www.aceitesdeolivadeespana.com/wp-content/uploads/2023/01/AdobeStock_319493286-1.jpeg",
-    "national": false
-  },
-  {
-    "id": 16,
-    "country": "Spain",
-    "foodName": "Gazpacho",
-    "description": "",
-    "region": "Andalucía",
-    "meal": "Lunch/Dinner",
-    "image": "https://www.qarnal.es/wp-content/uploads/2023/07/gazpacho-andaluz.jpg",
-    "national": false
-  },
-  {
-    "id": 17,
-    "country": "Spain",
-    "foodName": "Jamón Ibérico",
-    "description": "",
-    "region": "National",
-    "meal": "Snack",
-    "image": "https://loncheadoamano.es/wp-content/uploads/2021/05/Jamon-iberico-de-bellota-50-brida-roja-2.jpg",
-    "national": true
-  },
-  {
-    "id": 18,
-    "country": "Spain",
-    "foodName": "Paella",
-    "description": "",
-    "region": "Valencia",
-    "meal": "Lunch/Dinner",
-    "image": "https://www.brillante.es/wp-content/uploads/2017/05/paella-mixta.jpg",
-    "national": false
-  },
-  {
-    "id": 19,
-    "country": "Spain",
-    "foodName": "Pan Tumaca",
-    "description": "",
-    "region": "Cataluña",
-    "meal": "Breakfast",
-    "image": "https://www.bascofinefoods.com/wp-content/uploads/2019/03/pan-tumaca-1.jpg",
-    "national": false
-  },
-  {
-    "id": 20,
-    "country": "Spain",
-    "foodName": "Papas Arrugadas",
-    "description": "",
-    "region": "Islas Canarias",
-    "meal": "Lunch/Dinner",
-    "image": "https://patatasgomez.com/wp-content/uploads/2020/10/receta-de-papas-arrugadas-con-mojo-picon.jpg",
-    "national": false
-  },
-  {
-    "id": 21,
-    "country": "Spain",
-    "foodName": "Cachopo",
-    "description": "",
-    "region": "Asturias",
-    "meal": "Lunch/Dinner",
-    "image": "https://imag.bonviveur.com/cachopo-asturiano-de-ternera.jpg",
-    "national": false
-  },
-  {
-    "id": 22,
-    "country": "Spain",
-    "foodName": "Churros",
-    "description": "",
-    "region": "National",
-    "meal": "Breakfast",
-    "image": "https://www.aceitesdeolivadeespana.com/wp-content/uploads/2020/12/churros-receta.jpg",
-    "national": true
-  },
-  {
-    "id": 23,
-    "country": "Spain",
-    "foodName": "Patatas Bravas",
-    "description": "",
-    "region": "Madrid",
-    "meal": "Starter",
-    "image": "https://coosol.es/wp-content/uploads/2023/05/patatas-fritas-salsa-tomate-hierbas-sarten-hierro-fundido-1-768x525.jpg",
-    "national": false
-  },
-  {
-    "id": 24,
-    "country": "Spain",
-    "foodName": "Pulpo a la Gallega",
-    "description": "",
-    "region": "Galicia",
-    "meal": "Lunch/Dinner",
-    "image": "https://www.aceitesdeolivadeespana.com/wp-content/uploads/2019/05/pulpo-a-la-gallega.jpg",
-    "national": false
-  }
-]
+{
+  "foods": [
+    {
+      "id": 1,
+      "country": "Portugal",
+      "foodName": "Açorda",
+      "description": "",
+      "region": "Alentejo",
+      "meal": "Lunch/Dinner",
+      "image": "https://www.pingodoce.pt/wp-content/uploads/2022/03/acorda-alentejana.jpg",
+      "national": false
+    },
+    {
+      "id": 2,
+      "country": "Portugal",
+      "foodName": "Alheira",
+      "description": "",
+      "region": "Mirandela",
+      "meal": "Lunch/Dinner",
+      "image": "https://asset.skoiy.com/gta2554ejcwslaya/0nxpieghi7bu.jpg?w=1852&q=80",
+      "national": false
+    },
+    {
+      "id": 3,
+      "country": "Portugal",
+      "foodName": "Arroz de Cabidela",
+      "description": "",
+      "region": "Minho",
+      "meal": "Lunch/Dinner",
+      "image": "https://images.trustinnews.pt/uploads/sites/5/2023/03/230302_JCC-Arroz-de-Cabidela-Tia-Matilde-04-1.jpg",
+      "national": false
+    },
+    {
+      "id": 4,
+      "country": "Portugal",
+      "foodName": "Caldo Verde",
+      "description": "",
+      "region": "North",
+      "meal": "Lunch/Dinner",
+      "image": "https://www.receitaslidl.pt/var/site/storage/images/_aliases/960x540/4/3/4/2/602434-1-por-PT/Caldo-verde.jpg",
+      "national": false
+    },
+    {
+      "id": 5,
+      "country": "Portugal",
+      "foodName": "Cozido à Portuguesa",
+      "description": "",
+      "region": "National",
+      "meal": "Lunch/Dinner",
+      "image": "https://pt.rc-cdn.community.thermomix.com/sites/3/2/32e8628d0ddea02b0574302fdccb3bbd.jpg",
+      "national": true
+    },
+    {
+      "id": 6,
+      "country": "Portugal",
+      "foodName": "Francesinha",
+      "description": "",
+      "region": "Porto",
+      "meal": "Lunch/Dinner",
+      "image": "https://www.unileverfoodsolutions.pt/dam/global-ufs/mcos/portugal/calcmenu/recipes/PT-recipes/In-Development/francesinha/main-header.jpg",
+      "national": false
+    },
+    {
+      "id": 7,
+      "country": "Portugal",
+      "foodName": "Leitão",
+      "description": "",
+      "region": "Bairrada",
+      "meal": "Lunch/Dinner",
+      "image": "https://i0.wp.com/reserva85.com.br/wp-content/uploads/2024/01/Onde-comer-leitao-da-Bairrada-em-Portugal.webp?fit=1200%2C675&ssl=1",
+      "national": false
+    },
+    {
+      "id": 8,
+      "country": "Portugal",
+      "foodName": "Pastel de Bélem",
+      "description": "",
+      "region": "Bélem",
+      "meal": "Dessert",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/22/84/c7/94/pastel-de-belem.jpg",
+      "national": false
+    },
+    {
+      "id": 9,
+      "country": "Portugal",
+      "foodName": "Pastel de Bacalhau",
+      "description": "",
+      "region": "National",
+      "meal": "Snack",
+      "image": "https://www.cityguidelisbon.com/wp-content/uploads/2015/10/bb2-768x514.jpg",
+      "national": true
+    },
+    {
+      "id": 10,
+      "country": "Portugal",
+      "foodName": "Queijo da Serra",
+      "description": "",
+      "region": "Serra da Estrela",
+      "meal": "Snack",
+      "image": "https://divinoguia.com.br/wp-content/uploads/2019/12/Queijo-Serra-da-Estrela-divulga%C3%A7%C3%A3o-NCultura.PT_.jpg",
+      "national": false
+    },
+    {
+      "id": 11,
+      "country": "Portugal",
+      "foodName": "Sardinhas Assadas",
+      "description": "",
+      "region": "National",
+      "meal": "Lunch/Dinner",
+      "image": "https://e-leclerc.pt/wp-content/uploads/2023/06/Salada-de-Pimentos-com-Sardinhas-Assadas.png",
+      "national": true
+    },
+    {
+      "id": 12,
+      "country": "Portugal",
+      "foodName": "Tripas",
+      "description": "",
+      "region": "Porto",
+      "meal": "Lunch/Dinner",
+      "image": "https://surfivorcamp.com/wp-content/uploads/2018/12/tripas-a-moda-do-porto.jpg",
+      "national": false
+    },
+    {
+      "id": 13,
+      "country": "Spain",
+      "foodName": "Croquetas",
+      "description": "",
+      "region": "National",
+      "meal": "Starter",
+      "image": "https://img.saboresdehoy.com/receta/164/croquetas-de-jamon.jpg",
+      "national": true
+    },
+    {
+      "id": 14,
+      "country": "Spain",
+      "foodName": "Espeto de Sardinas",
+      "description": "",
+      "region": "Málaga",
+      "meal": "Lunch/Dinner",
+      "image": "https://imag.bonviveur.com/espeto-de-sardinas.jpg",
+      "national": false
+    },
+    {
+      "id": 15,
+      "country": "Spain",
+      "foodName": "Fabada Asturiana",
+      "description": "",
+      "region": "Asturias",
+      "meal": "Lunch",
+      "image": "https://www.aceitesdeolivadeespana.com/wp-content/uploads/2023/01/AdobeStock_319493286-1.jpeg",
+      "national": false
+    },
+    {
+      "id": 16,
+      "country": "Spain",
+      "foodName": "Gazpacho",
+      "description": "",
+      "region": "Andalucía",
+      "meal": "Lunch/Dinner",
+      "image": "https://www.qarnal.es/wp-content/uploads/2023/07/gazpacho-andaluz.jpg",
+      "national": false
+    },
+    {
+      "id": 17,
+      "country": "Spain",
+      "foodName": "Jamón Ibérico",
+      "description": "",
+      "region": "National",
+      "meal": "Snack",
+      "image": "https://loncheadoamano.es/wp-content/uploads/2021/05/Jamon-iberico-de-bellota-50-brida-roja-2.jpg",
+      "national": true
+    },
+    {
+      "id": 18,
+      "country": "Spain",
+      "foodName": "Paella",
+      "description": "",
+      "region": "Valencia",
+      "meal": "Lunch/Dinner",
+      "image": "https://www.brillante.es/wp-content/uploads/2017/05/paella-mixta.jpg",
+      "national": false
+    },
+    {
+      "id": 19,
+      "country": "Spain",
+      "foodName": "Pan Tumaca",
+      "description": "",
+      "region": "Cataluña",
+      "meal": "Breakfast",
+      "image": "https://www.bascofinefoods.com/wp-content/uploads/2019/03/pan-tumaca-1.jpg",
+      "national": false
+    },
+    {
+      "id": 20,
+      "country": "Spain",
+      "foodName": "Papas Arrugadas",
+      "description": "",
+      "region": "Islas Canarias",
+      "meal": "Lunch/Dinner",
+      "image": "https://patatasgomez.com/wp-content/uploads/2020/10/receta-de-papas-arrugadas-con-mojo-picon.jpg",
+      "national": false
+    },
+    {
+      "id": 21,
+      "country": "Spain",
+      "foodName": "Cachopo",
+      "description": "",
+      "region": "Asturias",
+      "meal": "Lunch/Dinner",
+      "image": "https://imag.bonviveur.com/cachopo-asturiano-de-ternera.jpg",
+      "national": false
+    },
+    {
+      "id": 22,
+      "country": "Spain",
+      "foodName": "Churros",
+      "description": "",
+      "region": "National",
+      "meal": "Breakfast",
+      "image": "https://www.aceitesdeolivadeespana.com/wp-content/uploads/2020/12/churros-receta.jpg",
+      "national": true
+    },
+    {
+      "id": 23,
+      "country": "Spain",
+      "foodName": "Patatas Bravas",
+      "description": "",
+      "region": "Madrid",
+      "meal": "Starter",
+      "image": "https://coosol.es/wp-content/uploads/2023/05/patatas-fritas-salsa-tomate-hierbas-sarten-hierro-fundido-1-768x525.jpg",
+      "national": false
+    },
+    {
+      "id": 24,
+      "country": "Spain",
+      "foodName": "Pulpo a la Gallega",
+      "description": "",
+      "region": "Galicia",
+      "meal": "Lunch/Dinner",
+      "image": "https://www.aceitesdeolivadeespana.com/wp-content/uploads/2019/05/pulpo-a-la-gallega.jpg",
+      "national": false
+    }
+  ]
+}

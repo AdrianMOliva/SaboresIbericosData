@@ -10,8 +10,8 @@
       "image": "https://www.pingodoce.pt/wp-content/uploads/2022/03/acorda-alentejana.jpg",
       "national": false,
       "restaurants": [
-        "Taberna do Adro (Alcáçovas)",
-        "Café Alentejo (Évora)",
+        "Taberna do Adro (Alcáçovas), ",
+        "Café Alentejo (Évora), ",
         "O Fialho (Évora)"
       ]
     },
@@ -25,8 +25,8 @@
       "image": "https://asset.skoiy.com/gta2554ejcwslaya/0nxpieghi7bu.jpg?w=1852&q=80",
       "national": false,
       "restaurants": [
-        "Solar Bragançano (Bragança)",
-        "Taberna do lago (Porto)",
+        "Solar Bragançano (Bragança), ",
+        "Taberna do lago (Porto), ",
         "O Paparico (Porto)"
       ]
     },
@@ -40,8 +40,8 @@
       "image": "https://images.trustinnews.pt/uploads/sites/5/2023/03/230302_JCC-Arroz-de-Cabidela-Tia-Matilde-04-1.jpg",
       "national": false,
       "restaurants": [
-        "Solar dos Presuntos (Lisboa)",
-        "Tia Alice (Fátima)",
+        "Solar dos Presuntos (Lisboa), ",
+        "Tia Alice (Fátima), ",
         "O Gaveto (Matosinhos)"
       ]
     },
@@ -55,8 +55,8 @@
       "image": "https://www.receitaslidl.pt/var/site/storage/images/_aliases/960x540/4/3/4/2/602434-1-por-PT/Caldo-verde.jpg",
       "national": false,
       "restaurants": [
-        "Adega São Nicolau (Porto)",
-        "Zé da Mouraria (Lisboa)",
+        "Adega São Nicolau (Porto), ",
+        "Zé da Mouraria (Lisboa), ",
         "Casa da Dízima (Paço de Arcos)"
       ]
     },
@@ -70,8 +70,8 @@
       "image": "https://pt.rc-cdn.community.thermomix.com/sites/3/2/32e8628d0ddea02b0574302fdccb3bbd.jpg",
       "national": true,
       "restaurants": [
-        "O Carvoeiro (Sintra)",
-        "Solar dos Presuntos (Lisboa)",
+        "O Carvoeiro (Sintra), ",
+        "Solar dos Presuntos (Lisboa), ",
         "Adega Tia Matilde (Lisboa)"
       ]
     },
@@ -84,7 +84,11 @@
       "meal": "Lunch/Dinner",
       "image": "https://www.unileverfoodsolutions.pt/dam/global-ufs/mcos/portugal/calcmenu/recipes/PT-recipes/In-Development/francesinha/main-header.jpg",
       "national": false,
-      "restaurants": []
+      "restaurants": [
+        "Café Santiago (Porto), ",
+        "Cervejaria Brasão (Porto), ",
+        "Capa Negra II (Porto)"
+      ]
     },
     {
       "id": 7,
@@ -95,7 +99,11 @@
       "meal": "Lunch/Dinner",
       "image": "https://i0.wp.com/reserva85.com.br/wp-content/uploads/2024/01/Onde-comer-leitao-da-Bairrada-em-Portugal.webp?fit=1200%2C675&ssl=1",
       "national": false,
-      "restaurants": []
+      "restaurants": [
+        "Pedro dos Leitões (Mealhada), ",
+        "Rei dos Leitões (Mealhada), ",
+        "Meta dos Leitões (Mealhada)"
+      ]
     },
     {
       "id": 8,
@@ -106,7 +114,11 @@
       "meal": "Dessert",
       "image": "https://media-cdn.tripadvisor.com/media/photo-s/22/84/c7/94/pastel-de-belem.jpg",
       "national": false,
-      "restaurants": []
+      "restaurants": [
+        "Pastéis de Belém (Belém), ",
+        "Manteigaria (Lisboa/Porto), ",
+        "Fábrica da Nata (Lisboa)"
+      ]
     },
     {
       "id": 9,
@@ -117,7 +129,11 @@
       "meal": "Snack",
       "image": "https://www.cityguidelisbon.com/wp-content/uploads/2015/10/bb2-768x514.jpg",
       "national": true,
-      "restaurants": []
+      "restaurants": [
+        "casa Portuguesa do Patel de Bacalhau (Porto/Lisboa), ",
+        "Adega São Nicolau (Porto), ",
+        "Cervejaria Ramiro (Liboa)"
+      ]
     },
     {
       "id": 10,
@@ -128,7 +144,11 @@
       "meal": "Snack",
       "image": "https://divinoguia.com.br/wp-content/uploads/2019/12/Queijo-Serra-da-Estrela-divulga%C3%A7%C3%A3o-NCultura.PT_.jpg",
       "national": false,
-      "restaurants": []
+      "restaurants": [
+        "Queijaria da Serra (Seia), ",
+        "Casa da Prisca (Trancoso), ",
+        "Solar do Queijo da Serra (Celorico da Beira)"
+      ]
     },
     {
       "id": 11,
@@ -139,7 +159,11 @@
       "meal": "Lunch/Dinner",
       "image": "https://e-leclerc.pt/wp-content/uploads/2023/06/Salada-de-Pimentos-com-Sardinhas-Assadas.png",
       "national": true,
-      "restaurants": []
+      "restaurants": [
+        "A Casa do Bacalhau (Lisboa), ",
+        "Adega da Tia Matilde (Lisboa), ",
+        "Mar do Inferno (Cascais)"
+      ]
     },
     {
       "id": 12,
@@ -150,7 +174,11 @@
       "meal": "Lunch/Dinner",
       "image": "https://surfivorcamp.com/wp-content/uploads/2018/12/tripas-a-moda-do-porto.jpg",
       "national": false,
-      "restaurants": []
+      "restaurants": [
+        "Adega São Nicolau (Porto), ",
+        "O Buraco (Porto), ",
+        "Taberna dos Mercadores (Porto)"
+      ]
     },
     {
       "id": 13,
@@ -162,8 +190,8 @@
       "image": "https://img.saboresdehoy.com/receta/164/croquetas-de-jamon.jpg",
       "national": true,
       "restaurants": [
-        "Casa Julio (Madrid)",
-        "Taberna Bodegas La Ardosa (Madrid)",
+        "Casa Julio (Madrid), ",
+        "Taberna Bodegas La Ardosa (Madrid), ",
         "Bar Tomás (Barcelona)"
       ]
     },
@@ -177,8 +205,8 @@
       "image": "https://imag.bonviveur.com/espeto-de-sardinas.jpg",
       "national": false,
       "restaurants": [
-        "El Tintero",
-        "Chiringuito El Caleño",
+        "El Tintero, ",
+        "Chiringuito El Caleño, ",
         "Chiringuito María"
       ]
     },
@@ -191,7 +219,7 @@
       "meal": "Lunch",
       "image": "https://www.que.es/wp-content/uploads/2023/10/fabada-asturiana-1.jpg",
       "national": false,
-      "restaurants": ["Casa Gerardo", "Casa Hortensia", "Casa Ramón"]
+      "restaurants": ["Casa Gerardo, ", "Casa Hortensia, ", "Casa Ramón"]
     },
     {
       "id": 16,
@@ -202,7 +230,7 @@
       "meal": "Lunch/Dinner",
       "image": "https://www.qarnal.es/wp-content/uploads/2023/07/gazpacho-andaluz.jpg",
       "national": false,
-      "restaurants": ["Casa Morales", "El Pimpi", "Restaurante El Faro"]
+      "restaurants": ["Casa Morales, ", "El Pimpi, ", "Restaurante El Faro"]
     },
     {
       "id": 17,
@@ -213,7 +241,11 @@
       "meal": "Snack",
       "image": "https://loncheadoamano.es/wp-content/uploads/2021/05/Jamon-iberico-de-bellota-50-brida-roja-2.jpg",
       "national": true,
-      "restaurants": []
+      "restaurants": [
+        "Joselito´s (Madrid), ",
+        "Restaurante Viridiana (Madrid), ",
+        "Restaurante Atrio (Cáceres)"
+      ]
     },
     {
       "id": 18,
@@ -224,7 +256,7 @@
       "meal": "Lunch/Dinner",
       "image": "https://www.brillante.es/wp-content/uploads/2017/05/paella-mixta.jpg",
       "national": false,
-      "restaurants": []
+      "restaurants": ["La Pepica, ", "Restaurante Levante, ", "Casa Carmela"]
     },
     {
       "id": 19,
@@ -235,7 +267,7 @@
       "meal": "Breakfast",
       "image": "https://www.bascofinefoods.com/wp-content/uploads/2019/03/pan-tumaca-1.jpg",
       "national": false,
-      "restaurants": []
+      "restaurants": ["Bar Mut, ", "Bar del Pla, ", "Quimet & Quimet"]
     },
     {
       "id": 20,
@@ -246,7 +278,11 @@
       "meal": "Lunch/Dinner",
       "image": "https://patatasgomez.com/wp-content/uploads/2020/10/receta-de-papas-arrugadas-con-mojo-picon.jpg",
       "national": false,
-      "restaurants": []
+      "restaurants": [
+        "El Rincón de Juan Carlos, ",
+        "La Hierbita, ",
+        "El Calderito de la Abuela"
+      ]
     },
     {
       "id": 21,
@@ -257,7 +293,11 @@
       "meal": "Lunch/Dinner",
       "image": "https://imag.bonviveur.com/cachopo-asturiano-de-ternera.jpg",
       "national": false,
-      "restaurants": []
+      "restaurants": [
+        "Casa Chema, ",
+        "La Corte de Pelayo, ",
+        "Restaurante El Ñeru"
+      ]
     },
     {
       "id": 22,

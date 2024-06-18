@@ -57,6 +57,7 @@
       "meal": "Lunch/Dinner",
       "image": "https://www.receitaslidl.pt/var/site/storage/images/_aliases/960x540/4/3/4/2/602434-1-por-PT/Caldo-verde.jpg",
       "national": false,
+      "toggled": false,
       "restaurants": [
         "Adega São Nicolau (Porto), ",
         "Zé da Mouraria (Lisboa), ",
@@ -72,6 +73,7 @@
       "meal": "Lunch/Dinner",
       "image": "https://pt.rc-cdn.community.thermomix.com/sites/3/2/32e8628d0ddea02b0574302fdccb3bbd.jpg",
       "national": true,
+      "toggled": false,
       "restaurants": [
         "O Carvoeiro (Sintra), ",
         "Solar dos Presuntos (Lisboa), ",
@@ -87,6 +89,7 @@
       "meal": "Lunch/Dinner",
       "image": "https://www.unileverfoodsolutions.pt/dam/global-ufs/mcos/portugal/calcmenu/recipes/PT-recipes/In-Development/francesinha/main-header.jpg",
       "national": false,
+      "toggled": false,
       "restaurants": [
         "Café Santiago (Porto), ",
         "Cervejaria Brasão (Porto), ",
@@ -236,6 +239,7 @@
       "meal": "Lunch/Dinner",
       "image": "https://www.qarnal.es/wp-content/uploads/2023/07/gazpacho-andaluz.jpg",
       "national": false,
+      "toggled": false,
       "restaurants": ["Casa Morales, ", "El Pimpi, ", "Restaurante El Faro"]
     },
     {
@@ -247,6 +251,7 @@
       "meal": "Snack",
       "image": "https://loncheadoamano.es/wp-content/uploads/2021/05/Jamon-iberico-de-bellota-50-brida-roja-2.jpg",
       "national": true,
+      "toggled": false,
       "restaurants": [
         "Joselito´s (Madrid), ",
         "Restaurante Viridiana (Madrid), ",
@@ -262,6 +267,7 @@
       "meal": "Lunch/Dinner",
       "image": "https://www.brillante.es/wp-content/uploads/2017/05/paella-mixta.jpg",
       "national": false,
+      "toggled": false,
       "restaurants": ["La Pepica, ", "Restaurante Levante, ", "Casa Carmela"]
     },
     {

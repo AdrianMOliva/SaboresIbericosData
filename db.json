@@ -9,6 +9,7 @@
       "meal": "Lunch/Dinner",
       "image": "https://www.pingodoce.pt/wp-content/uploads/2022/03/acorda-alentejana.jpg",
       "national": false,
+      "toggled": false,
       "restaurants": [
         "Taberna do Adro (Alcáçovas), ",
         "Café Alentejo (Évora), ",
@@ -24,6 +25,7 @@
       "meal": "Lunch/Dinner",
       "image": "https://asset.skoiy.com/gta2554ejcwslaya/0nxpieghi7bu.jpg?w=1852&q=80",
       "national": false,
+      "toggled": false,
       "restaurants": [
         "Solar Bragançano (Bragança), ",
         "Taberna do lago (Porto), ",
@@ -39,6 +41,7 @@
       "meal": "Lunch/Dinner",
       "image": "https://images.trustinnews.pt/uploads/sites/5/2023/03/230302_JCC-Arroz-de-Cabidela-Tia-Matilde-04-1.jpg",
       "national": false,
+      "toggled": false,
       "restaurants": [
         "Solar dos Presuntos (Lisboa), ",
         "Tia Alice (Fátima), ",
@@ -189,6 +192,7 @@
       "meal": "Starter",
       "image": "https://img.saboresdehoy.com/receta/164/croquetas-de-jamon.jpg",
       "national": true,
+      "toggled": false,
       "restaurants": [
         "Casa Julio (Madrid), ",
         "Taberna Bodegas La Ardosa (Madrid), ",
@@ -204,6 +208,7 @@
       "meal": "Lunch/Dinner",
       "image": "https://imag.bonviveur.com/espeto-de-sardinas.jpg",
       "national": false,
+      "toggled": false,
       "restaurants": [
         "El Tintero, ",
         "Chiringuito El Caleño, ",
@@ -219,6 +224,7 @@
       "meal": "Lunch",
       "image": "https://www.que.es/wp-content/uploads/2023/10/fabada-asturiana-1.jpg",
       "national": false,
+      "toggled": false,
       "restaurants": ["Casa Gerardo, ", "Casa Hortensia, ", "Casa Ramón"]
     },
     {
@@ -308,7 +314,11 @@
       "meal": "Breakfast",
       "image": "https://images.ecestaticos.com/7kByfKamPcPM1MVQDl8-LcOnDH4=/0x0:2272x1528/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F466%2Fcc9%2F971%2F466cc997186a1596a5c1c5710e46c573.jpg",
       "national": true,
-      "restaurants": []
+      "restaurants": [
+        "Chocolatería San Ginés (Madird), ",
+        "Granja m. Viader (Barcelona), ",
+        "Churrería Los Especiales (Sevilla)"
+      ]
     },
     {
       "id": 23,
@@ -319,7 +329,11 @@
       "meal": "Starter",
       "image": "https://coosol.es/wp-content/uploads/2023/05/patatas-fritas-salsa-tomate-hierbas-sarten-hierro-fundido-1-768x525.jpg",
       "national": false,
-      "restaurants": []
+      "restaurants": [
+        "Bar Tomás (Barcelona), ",
+        "Docamar (Madrid), ",
+        "Bodega Dos de Mayo (Sevilha)"
+      ]
     },
     {
       "id": 24,
@@ -330,7 +344,11 @@
       "meal": "Lunch/Dinner",
       "image": "https://qualisa.com.mx/wp-content/uploads/2023/09/33-2.jpg",
       "national": false,
-      "restaurants": []
+      "restaurants": [
+        "O'Grove (Galícia), ",
+        "Pulpería Abastos 2.0 (Galícia), ",
+        "Restaurante Casa Lucio (Madrid)"
+      ]
     }
   ]
 }

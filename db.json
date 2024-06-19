@@ -105,6 +105,7 @@
       "meal": "Lunch/Dinner",
       "image": "https://i0.wp.com/reserva85.com.br/wp-content/uploads/2024/01/Onde-comer-leitao-da-Bairrada-em-Portugal.webp?fit=1200%2C675&ssl=1",
       "national": false,
+      "toggled": false,
       "restaurants": [
         "Pedro dos Leitões (Mealhada), ",
         "Rei dos Leitões (Mealhada), ",
@@ -120,6 +121,7 @@
       "meal": "Dessert",
       "image": "https://media-cdn.tripadvisor.com/media/photo-s/22/84/c7/94/pastel-de-belem.jpg",
       "national": false,
+      "toggled": false,
       "restaurants": [
         "Pastéis de Belém (Belém), ",
         "Manteigaria (Lisboa/Porto), ",
@@ -135,6 +137,7 @@
       "meal": "Snack",
       "image": "https://www.cityguidelisbon.com/wp-content/uploads/2015/10/bb2-768x514.jpg",
       "national": true,
+      "toggled": false,
       "restaurants": [
         "casa Portuguesa do Patel de Bacalhau (Porto/Lisboa), ",
         "Adega São Nicolau (Porto), ",
@@ -150,6 +153,7 @@
       "meal": "Snack",
       "image": "https://divinoguia.com.br/wp-content/uploads/2019/12/Queijo-Serra-da-Estrela-divulga%C3%A7%C3%A3o-NCultura.PT_.jpg",
       "national": false,
+      "toggled": false,
       "restaurants": [
         "Queijaria da Serra (Seia), ",
         "Casa da Prisca (Trancoso), ",
@@ -165,6 +169,7 @@
       "meal": "Lunch/Dinner",
       "image": "https://e-leclerc.pt/wp-content/uploads/2023/06/Salada-de-Pimentos-com-Sardinhas-Assadas.png",
       "national": true,
+      "toggled": false,
       "restaurants": [
         "A Casa do Bacalhau (Lisboa), ",
         "Adega da Tia Matilde (Lisboa), ",
@@ -180,6 +185,7 @@
       "meal": "Lunch/Dinner",
       "image": "https://surfivorcamp.com/wp-content/uploads/2018/12/tripas-a-moda-do-porto.jpg",
       "national": false,
+      "toggled": false,
       "restaurants": [
         "Adega São Nicolau (Porto), ",
         "O Buraco (Porto), ",
@@ -279,6 +285,7 @@
       "meal": "Breakfast",
       "image": "https://www.bascofinefoods.com/wp-content/uploads/2019/03/pan-tumaca-1.jpg",
       "national": false,
+      "toggled": false,
       "restaurants": ["Bar Mut, ", "Bar del Pla, ", "Quimet & Quimet"]
     },
     {
@@ -290,6 +297,7 @@
       "meal": "Lunch/Dinner",
       "image": "https://patatasgomez.com/wp-content/uploads/2020/10/receta-de-papas-arrugadas-con-mojo-picon.jpg",
       "national": false,
+      "toggled": false,
       "restaurants": [
         "El Rincón de Juan Carlos, ",
         "La Hierbita, ",
@@ -305,6 +313,7 @@
       "meal": "Lunch/Dinner",
       "image": "https://imag.bonviveur.com/cachopo-asturiano-de-ternera.jpg",
       "national": false,
+      "toggled": false,
       "restaurants": [
         "Casa Chema, ",
         "La Corte de Pelayo, ",
@@ -320,6 +329,7 @@
       "meal": "Breakfast",
       "image": "https://images.ecestaticos.com/7kByfKamPcPM1MVQDl8-LcOnDH4=/0x0:2272x1528/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F466%2Fcc9%2F971%2F466cc997186a1596a5c1c5710e46c573.jpg",
       "national": true,
+      "toggled": false,
       "restaurants": [
         "Chocolatería San Ginés (Madird), ",
         "Granja m. Viader (Barcelona), ",
@@ -335,6 +345,7 @@
       "meal": "Starter",
       "image": "https://coosol.es/wp-content/uploads/2023/05/patatas-fritas-salsa-tomate-hierbas-sarten-hierro-fundido-1-768x525.jpg",
       "national": false,
+      "toggled": false,
       "restaurants": [
         "Bar Tomás (Barcelona), ",
         "Docamar (Madrid), ",
@@ -350,6 +361,7 @@
       "meal": "Lunch/Dinner",
       "image": "https://qualisa.com.mx/wp-content/uploads/2023/09/33-2.jpg",
       "national": false,
+      "toggled": false,
       "restaurants": [
         "O'Grove (Galícia), ",
         "Pulpería Abastos 2.0 (Galícia), ",
